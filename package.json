@@ -9,6 +9,8 @@
   "author": "IotBoy",
   "license": "MIT",
   "dependencies": {
-    "amqp": "^0.2.4"
+    "amqp": "^0.2.4",
+    "azure": "^0.10.6",
+    "event-hub-client": "noodlefrenzy/event-hub-client"
   }
 }
